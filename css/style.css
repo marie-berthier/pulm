@@ -1,0 +1,22 @@
+@import url("https://fonts.googleapis.com/css?family=Laila:400,600|Scope+One&display=swap");
+
+@import url("components/container.css");
+@import url("components/avatar.css");
+@import url("components/button.css");
+@import url("components/banner.css");
+@import url("components/card.css");
+
+body {
+	font-family: 'Scope One', serif;
+	font-size: 18px;
+	margin: 0px;
+}
+h1 {
+	font-family: 'Scope One', serif;
+	font-size: 30px;
+	font-weight: bold;
+}
+h2 {
+	font-family: 'Scope One', serif;
+	font-size: 20px;
+}
